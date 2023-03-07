@@ -1,0 +1,51 @@
+[
+    {
+        "software": "Inventor",
+        "operation": "meshing",
+        "length": 12
+    },
+    {
+        "software": "Fusion",
+        "length": 232,
+        "operation": "rendering"
+    },
+    {
+        "software": "Fusion",
+        "length": 23,
+        "operation": "meshing"
+    },
+    {
+        "software": "Fusion",
+        "length": 1022,
+        "operation": "solving"
+    },
+    {
+        "software": "Revit",
+        "length": "12dsd2",
+        "operation": "meshing"
+    },
+    {
+        "software": "Inventor",
+        "length": -23,
+        "operation": "rendering"
+    },
+    {
+        "software": "Inventor",
+        "length": 36,
+        "operation": "meshing"
+    },
+    {
+        "software": "Revit",
+        "length": 232
+    },
+    {
+        "software": "Revit",
+        "length": 2322,
+        "operation": "rendering"
+    },
+    {
+        "software": "Inventor",
+        "length": 121,
+        "operation": "rendering"
+    }
+]
